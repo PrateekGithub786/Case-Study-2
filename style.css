@@ -56,7 +56,7 @@ body{
 
  button{
      background-color: white;
-     width: 230px;
+     width: auto;
      border-radius: 70px;
      margin-bottom: 1000px;
  }
